@@ -159,7 +159,7 @@ main {
     padding: .5rem;
 }
 
-.wrapper-3 {
+.calculator {
     background-color: white;
     padding: .6rem;
     box-shadow: 5px 8px 10px rgba(84, 158, 242, .19);
@@ -169,14 +169,14 @@ main {
     width: 240px;
 }
 
-.wrapper-3 h1 {
+.calculator h1 {
     color: rgb(59, 58, 58);
     font-size: 1rem;
     padding: .5rem;
 
 }
 
-.wrapper-3 p {
+.calculator p {
     color: var(--GrayishBlue);
     font-size: .7rem;
     padding: 1rem;
@@ -217,7 +217,7 @@ main {
         margin-right: 1rem;
     }
 
-    .wrapper-3 {
+    .calculator {
         margin-left: 1rem;
     }
 
@@ -243,7 +243,6 @@ main {
         font-size: 1.5rem;
         font-weight: 600;
     }
-
 
     .attribution {
         font-size: 11px;
